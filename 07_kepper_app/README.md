@@ -1,7 +1,7 @@
 # 07_kepper_app</br>
 This web app presents the option of making dynamic lists. On the home page, the user will see an input saying "Take a note..." and after navigating the cursor in this field, the note will expand and give the option for the user to fill in the title and the content of the note. With a plus button, the note can be added to the home page. Each note that was added can also be deleted with the "trash bin" button. The main React feature investigated in this project is the use of React Hooks, with some complex use of useState, as well as the management of the component tree and how to pass variables and functions between components. On top of that, the Material-UI and  Material-icons packages were installed and used to generate icons, floating action buttons, and zoom effects with React components. It was styled with CSS and Bootstrap 5.3 and developed with React.js with @mui/material v.5 and @mui/icons-material v.5.</br>
 
-
+ 
 Dependencies: </br>
 Material UI: (material and icons-material)</br>
 https://mui.com/material-ui/getting-started/installation/</br>
