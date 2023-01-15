@@ -73,5 +73,5 @@ You may also see any lint errors in the console.
 
 ***The main page - adding another note.***</br>
 ![Screenshot](docs/img/04_img.png)</br>
-
+ 
 ---
