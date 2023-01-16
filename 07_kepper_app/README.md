@@ -27,7 +27,7 @@ Main features:</br>
 - React Hooks - useState</br>
 - React - complex - hooks - useState - with objects</br>
 - React Controlled Components </br>
-- React forms</br>
+- React forms</br> 
 - React managing component tree</br>
 - React - passing values / functions between components </br>
 - Material UI (open-source React component library that implements Google's Material Design)</br>
