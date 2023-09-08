@@ -6,7 +6,7 @@ function Languages({ language, onLanguageChange }) {
         {LANGUAGES.map(({ label, value }) => {
           return (
             <div
-              key={label}
+              key={label} 
               className={`opt ${language === value ? "selected" : ""}`}
               onClick={() => onLanguageChange(value)}
             >
