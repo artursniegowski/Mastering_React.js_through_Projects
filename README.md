@@ -34,3 +34,6 @@ This web app presents the option of making dynamic lists. On the home page, the 
 
 ## 08_translate_app</br>
 The Translate App, built using React and powered by the Google Cloud Translation API, offers instant language translation at your fingertips. Users simply input text, select their desired language, and receive real-time translations.Key Features: Text Input: Easily input text to be translated, Language Selection: Choose from various target languages via buttons, Real-Time Translation: Axios, a lightweight HTTP client, consumes the Google Translate API to provide immediate translations, API Integration: Users configure their own Google Translate API key to enable translation functionality securely.</br>
+
+## 09_listing_app</br>
+The "Personal Digital Assistants Listing App" is a beginner-friendly React application designed to provide a hands-on experience with key React concepts and best practices. This project showcases the creation and use of reusable components, the handling of props and destructuring, as well as the integration of CSS using the popular npm package, Bulma. At its core, the app allows users to explore a collection of personal digital assistants, complete with pictures and brief descriptions.</br>
