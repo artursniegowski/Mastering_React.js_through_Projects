@@ -7,14 +7,14 @@ The Animal Popularity Clicker App not only offers an enjoyable and interactive e
 - Add Animals: The app's single page prominently displays a button labeled "Add Animal." Upon clicking this button, a new animal is randomly selected from a predefined list and dynamically added to the screen.</br>
 - Interactive Hearts: Each added animal features a tiny heart icon positioned at the right bottom corner. This heart symbolizes the user's appreciation for the animal. Clicking on the heart icon associated with any animal causes it to grow in size, reflecting the user's affection for that specific animal.</br>
 - Technological Showcase: The Animal Popularity Clicker App serves as a learning tool for those interested in React development. It demonstrates the use of various React concepts and technologies, including:</br>
--- Event Listeners: The app uses event listeners to respond to user interactions (button clicks and heart icon clicks).</br>
--- useState Hook: React's useState hook is employed to manage the state of the application, particularly the list of displayed animals and their corresponding heart sizes.</br>
--- Object and Array Destructuring: Modern JavaScript techniques like object and array destructuring are showcased in managing data structures.</br>
-* Passing Props: The app illustrates how to pass data and event handlers as props between parent and child components.</br>
-* Customized CSS: Styling is applied to components using customized CSS classes, allowing for a visually appealing presentation.</br>
-* Mapping Elements: React's map function is utilized to loop through elements and dynamically display multiple components on the screen.</br>
-* Spreading Functionality of Arrays: The app makes use of the spread operator to add new animals to the list without directly mutating the existing state.</br>
-* Loading Random Pictures: It incorporates the functionality to load random pictures of animals into the components, providing a visually engaging experience.</br>
+1. Event Listeners: The app uses event listeners to respond to user interactions (button clicks and heart icon clicks).</br>
+2. useState Hook: React's useState hook is employed to manage the state of the application, particularly the list of displayed animals and their corresponding heart sizes.</br>
+3. Object and Array Destructuring: Modern JavaScript techniques like object and array destructuring are showcased in managing data structures.</br>
+4. Passing Props: The app illustrates how to pass data and event handlers as props between parent and child components.</br>
+5. Customized CSS: Styling is applied to components using customized CSS classes, allowing for a visually appealing presentation.</br>
+6. Mapping Elements: React's map function is utilized to loop through elements and dynamically display multiple components on the screen.</br>
+7. Spreading Functionality of Arrays: The app makes use of the spread operator to add new animals to the list without directly mutating the existing state.</br>
+8. Loading Random Pictures: It incorporates the functionality to load random pictures of animals into the components, providing a visually engaging experience.</br>
 
 
 ---
