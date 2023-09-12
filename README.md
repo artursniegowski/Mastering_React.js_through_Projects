@@ -37,3 +37,7 @@ The Translate App, built using React and powered by the Google Cloud Translation
 
 ## 09_listing_app</br>
 The "Personal Digital Assistants Listing App" is a beginner-friendly React application designed to provide a hands-on experience with key React concepts and best practices. This project showcases the creation and use of reusable components, the handling of props and destructuring, as well as the integration of CSS using the popular npm package, Bulma. At its core, the app allows users to explore a collection of personal digital assistants, complete with pictures and brief descriptions.</br>
+
+## 10_animal_popularity_clicker_app</br>
+The Animal Popularity Clicker App is a delightful and interactive single-page web application built using React. Its main objective is to provide users with a fun and engaging experience while showcasing various React concepts and features.</br>
+The Animal Popularity Clicker App not only offers an enjoyable and interactive experience for users but also serves as an educational resource for developers interested in learning React. Through its playful approach, it showcases essential React concepts and best practices while providing entertainment and a sense of whimsy to its users. Whether you're a beginner looking to learn React or simply seeking a few moments of fun, this app is the perfect place to start. Enjoy the excitement of discovering new animals and growing hearts as you explore the world of React development!</br>
