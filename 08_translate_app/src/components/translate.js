@@ -52,7 +52,7 @@ const debounce = (fn) => {
 const doTranslation = debounce(
   async (input, languageCode, cancelToken, callback) => {
     try {
-      const apiKey = process.env.GOOGLE_TRANSLATION_API_KEY;
+      const apiKey = process.env.REACT_APP_GOOGLE_TRANSLATION_API_KEY;
       const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
       // const url = `http://127.0.0.1:5000/translate`; // used as proxy server if API key doset work
       const { data } = await axios.post(
