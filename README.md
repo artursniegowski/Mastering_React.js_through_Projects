@@ -41,3 +41,7 @@ The "Personal Digital Assistants Listing App" is a beginner-friendly React appli
 ## 10_animal_popularity_clicker_app</br>
 The Animal Popularity Clicker App is a delightful and interactive single-page web application built using React. Its main objective is to provide users with a fun and engaging experience while showcasing various React concepts and features.</br>
 The Animal Popularity Clicker App not only offers an enjoyable and interactive experience for users but also serves as an educational resource for developers interested in learning React. Through its playful approach, it showcases essential React concepts and best practices while providing entertainment and a sense of whimsy to its users. Whether you're a beginner looking to learn React or simply seeking a few moments of fun, this app is the perfect place to start. Enjoy the excitement of discovering new animals and growing hearts as you explore the world of React development!</br>
+
+## 11_image_seeker_app </br>
+Image Seeker is a single-page web application built with React.js that empowers users to discover and display images based on their search queries. This user-friendly application harnesses the power of the Unsplash API to seamlessly retrieve and showcase up to 10 high-quality images that match the user's search criteria.</br>
+
