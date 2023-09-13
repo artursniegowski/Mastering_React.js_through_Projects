@@ -1,0 +1,20 @@
+:root {
+    --background-color: #F2F7A1;
+    --background-color-button: #071952;
+    --background-color-light-1: #088395;
+    --background-color-light-2: #35A29F;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
