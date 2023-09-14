@@ -1,0 +1,20 @@
+:root{
+  --background-color-all: #579BB1;
+  --highlight-list-color: #2a687d;
+  --background-color-list: #ECE8DD;
+  --text-color-all: #F8F4EA; 
+}
+
+body {
+  background-color: var(--background-color-all);
+  min-height: 70vh;
+  padding: 2rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--text-color-all);
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+  font-size: 130%;
+}
