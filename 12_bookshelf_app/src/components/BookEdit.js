@@ -16,7 +16,7 @@ function BookEdit ({book, onSubmit}) {
         <div>
             <form className="book-edit" onSubmit={handleSubmit}>
                 <label>Title</label>
-                <input 
+                <input  
                     className="input"
                     value={title}
                     onChange={e=>setTitle(e.target.value)}
