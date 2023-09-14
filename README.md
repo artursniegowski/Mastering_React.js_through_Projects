@@ -45,3 +45,5 @@ The Animal Popularity Clicker App not only offers an enjoyable and interactive e
 ## 11_image_seeker_app </br>
 Image Seeker is a single-page web application built with React.js that empowers users to discover and display images based on their search queries. This user-friendly application harnesses the power of the Unsplash API to seamlessly retrieve and showcase up to 10 high-quality images that match the user's search criteria.</br>
 
+# 12_bookshelf_app </br>
+The Bookshelf app is a single-page React application designed to create and manage a digital bookshelf. Users can easily add, edit, and delete book titles, with each book displayed as a card on the page. The app also provides a visually engaging experience by automatically generating random book cover images for each added book.</br>
