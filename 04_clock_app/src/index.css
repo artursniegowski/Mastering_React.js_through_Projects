@@ -1,0 +1,12 @@
+:root {
+  --backgroud-color-clock: #3D1766;
+  --text-color: #FF0032;
+  --button-color: #6F1AB6;
+}
+
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: var(--text-color);
+  padding-top: 100px;
+  background-color: var(--backgroud-color-clock);
+}
