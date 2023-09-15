@@ -51,3 +51,7 @@ The Bookshelf app is a single-page React application designed to create and mana
 ## 13_bookshelf_v2_app </br>
 The 13_Bookshelf_v2_app is an enhanced version of the original single-page React application 12_Bookshelf_app designed for creating and managing a digital bookshelf. This updated version introduces persistent data storage by integrating a JSON server. Users can seamlessly add, edit, and delete book titles while enjoying the visual appeal of randomly generated book cover images for each added book.</br>
 
+## 14_bookshelf_v3_app </br>
+The 14_bookshelf_v3_app represents an enhanced version of the 13_Bookshelf_v2_app single-page React application, designed for creating and managing a digital bookshelf. This updated version introduces significant improvements to data management and user experience. 
+The application has been optimized for data management by implementing the React context system. Instead of passing data through props, the context system is used, making data sharing more efficient and maintaining a clear separation of concerns. The app also effectively addresses the useEffect endless loop problem by utilizing the useCallback hook. This ensures that data fetching and updates occur efficiently and do not result in unnecessary re-renders.</br>
+
