@@ -26,8 +26,8 @@ Demonstrates the use of useReducer and custom hooks to manage and display count 
 ## Technologies and Libraries Used:</br>
 React.js: The core library for building the user interface.</br>
 JavaScript: Used for coding logic and functionality.</br>
-CSS: Styling for components.</br></br>
-HTML: Markup for rendering UI elements.
+CSS: Styling for components.</br>
+HTML: Markup for rendering UI elements.</br>
 TailwindCSS: A utility-first CSS framework for styling.</br>
 useState, useEffect, useCallback, useReducer, useRef Hooks: React hooks used for state management and component interactions.</br>
 prop-types: A library for validating prop types.</br>
