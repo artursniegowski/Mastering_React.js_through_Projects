@@ -1,0 +1,31 @@
+/* Style the image list container */
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Style individual image containers */
+.image-list div {
+    width: 250px; /* Set a fixed width for the image container */
+    height: 250px; /* Set a fixed height for the image container */
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* Hide overflowing content */
+}
+  
+  /* Style the images */
+.image-list img {
+    max-width: 100%; /* Ensure images don't exceed the container width */
+    max-height: 100%; /* Ensure images don't exceed the container height */
+    object-fit: cover; /* Scale the image while preserving aspect ratio */
+    width: auto; /* Reset width to auto to prevent stretching */
+    height: auto; /* Reset height to auto to prevent stretching */
+    display: block;
+}
