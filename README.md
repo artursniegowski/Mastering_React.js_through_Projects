@@ -55,3 +55,20 @@ The 13_Bookshelf_v2_app is an enhanced version of the original single-page React
 The 14_bookshelf_v3_app represents an enhanced version of the 13_Bookshelf_v2_app single-page React application, designed for creating and managing a digital bookshelf. This updated version introduces significant improvements to data management and user experience. 
 The application has been optimized for data management by implementing the React context system. Instead of passing data through props, the context system is used, making data sharing more efficient and maintaining a clear separation of concerns. The app also effectively addresses the useEffect endless loop problem by utilizing the useCallback hook. This ensures that data fetching and updates occur efficiently and do not result in unnecessary re-renders.</br>
 
+## 15_reusable_components_app </br>
+The "15_reusable_components_app" is a React.js project that demonstrates the creation and organization of reusable components for building user interfaces. The primary focus of this project is to develop custom, highly modular components that can be easily integrated into larger applications. These components cover a wide range of UI elements, including navigation, buttons, modals, tables, sorting tables, counters, dropdowns, and accordions.</br>
+Main Components Created:</br>
+- Reusable Custom Navigation: </br>
+Custom navigation system created from scratch to ensure smooth page transitions without full page reloads during route changes.</br>
+- Reusable Custom Dropdown Component:</br>
+Designed to provide a customizable dropdown UI element. Utilized the useRef hook to detect clicks outside the dropdown for closing. </br>
+- Reusable Custom Accordion Component:</br>
+A flexible accordion component that can be configured by passing objects as props for dynamic content display. Utilizes useState for managing expanded/collapsed states.</br>
+- Reusable Custom Button Component:</br>
+Customizable button component with support for various styles, including primary, secondary, success, warning, and danger. Utilizes classNames library for easy styling based on props.</br>
+- Reusable Custom Modal Component:</br>
+Modal component for displaying content overlays. Ensures the background is grayed out for a focused modal experience.</br>
+- Reusable Custom Table and Sorting Table Components:</br>
+Fully customizable table components that can render data based on props. Sorting table allows users to pass sorting functions and data as props for dynamic sorting. </br>
+- Reusable Custom Counter Component:</br>
+Demonstrates the use of useReducer and custom hooks to manage and display count values.</br>
