@@ -72,3 +72,15 @@ Modal component for displaying content overlays. Ensures the background is graye
 Fully customizable table components that can render data based on props. Sorting table allows users to pass sorting functions and data as props for dynamic sorting. </br>
 - Reusable Custom Counter Component:</br>
 Demonstrates the use of useReducer and custom hooks to manage and display count values.</br>
+
+## 16_playlist_app </br>
+The 16_playlist_app is a React-based application that serves as an exemplary showcase of using Redux Toolkit to manage application state effectively. It demonstrates how to configure and organize a Redux project, create actions, dispatch them, and use Redux Toolkit functions, including configureStore, createSlice, useDispatch, and useSelector. This project focuses on managing playlists of movies and songs, allowing users to add, remove, and reset these playlists.</br>
+Key Features:</br>
+1. Redux Integration: The project uses Redux Toolkit to handle application state. It showcases the following key concepts:</br>
+- configureStore: The application sets up a Redux store using configureStore to manage the state.</br>
+- createSlice: It defines two slices, songsSlice and moviesSlice, each with their own reducers and initial state.</br>
+- Custom Action: A custom action called reset is created using createAction and shared between the slices to reset both playlists.</br>
+2. Playlist Management:</br>
+- Add Song/Movie: Users can add random songs or movies to their respective playlists. The random data is generated using the Faker.js library.</br>
+- Remove Item: Each song and movie in the playlist has a corresponding 'X' button for removal.</br>
+- Reset Playlists: A "Reset Both Playlists" button allows users to reset both the song and movie playlists simultaneously.</br>
