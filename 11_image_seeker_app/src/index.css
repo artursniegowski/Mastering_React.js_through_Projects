@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+/* Style the container */
+div {
+    text-align: center;
+}
+  
+/* Style the heading */
+h1 {
+    font-size: 36px; 
+    color: #fff; 
+    background-color: #333; 
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+}
