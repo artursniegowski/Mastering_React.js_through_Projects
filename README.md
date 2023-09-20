@@ -84,3 +84,22 @@ Key Features:</br>
 - Add Song/Movie: Users can add random songs or movies to their respective playlists. The random data is generated using the Faker.js library.</br>
 - Remove Item: Each song and movie in the playlist has a corresponding 'X' button for removal.</br>
 - Reset Playlists: A "Reset Both Playlists" button allows users to reset both the song and movie playlists simultaneously.</br>
+
+## 17_car_tracker_app </br>
+The 17_car_tracker_app is a React application built with Redux to help users keep track of their cars and their total value. This user-friendly app provides a convenient interface for adding, deleting, searching, and managing cars in a personalized car inventory.</br>
+ Key Features:</br>
+- Car Entry Form: </br>
+The app features a user-friendly form at the top, allowing users to input the name and value of their cars.</br>
+Users can effortlessly add cars to their inventory by filling out the form and clicking the submit button.</br>
+- Car List Management:</br>
+Each car added to the list is displayed with an option to delete it. Users can remove any car from their inventory at any time with a simple click.</br>
+The list dynamically updates to reflect changes in real-time.</br>
+- Total Car Value Display:</br>
+Below the list of cars, the app provides a clear indication of the total value of all the cars in the inventory.</br>
+Users can instantly track the cumulative value of their car collection as they add or remove cars.</br>
+- Search Functionality:</br>
+The app empowers users to search through their car inventory based on car names.</br>
+When users perform a search, the app filters the list of cars to display only those matching the search query. The total value updates accordingly.</br>
+- Name Highlighting:
+To enhance user experience, the app highlights cars in the list whose names partially or fully match the user's input.</br>
+This feature helps users quickly identify cars with similar or identical names in their inventory.</br>
