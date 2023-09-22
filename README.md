@@ -103,3 +103,15 @@ When users perform a search, the app filters the list of cars to display only th
 - Name Highlighting:
 To enhance user experience, the app highlights cars in the list whose names partially or fully match the user's input.</br>
 This feature helps users quickly identify cars with similar or identical names in their inventory.</br>
+
+
+## 18_media_fetch_app </br>
+18_media_fetch_app is a React and Redux application focused on understanding data fetching and managing data in a Redux environment. It fetches data from an external API and provides various features to interact with it.</br>
+Key Features: </br>
+- using the tag system to implement automatic data re-fetching, inside of Redux Toolkit query.
+- User List: Upon app initialization, it fetches and displays a list of users from an external API. Users can be added, deleted, and expanded to view their albums and photos, which can also be added.</br>
+- Dynamic Data Loading: To optimize bandwidth-constrained connections, the app implements lazy data loading. It fetches only the required data when a user interacts with specific elements, reducing initial data overfetching.</br>
+- Random Data Generation: All user names, album titles, and photo data are randomly generated, providing a variety of records for testing.</br>
+- Data Storage: The app saves the generated data to an external API server using JSON Server, allowing future retrieval of the randomly generated records.</br>
+- Data Loading Experience: To enhance the user experience, the app employs loading spinners and clear error handling to ensure that users are aware of data fetching activities.</br>
+- Redux Toolkit and Redux Toolkit Query: The project is divided into three phases. The first phase, fetching the list of users, uses Plain Redux Toolkit for making requests. The subsequent phases, fetching albums and photos, utilize Redux Toolkit Query, an extension that simplifies advanced data fetching features.</br>
