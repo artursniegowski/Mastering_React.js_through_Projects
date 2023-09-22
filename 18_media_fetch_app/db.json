@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "name": "Rick Haley",
+      "id": 1
+    },
+    {
+      "name": "Alicia Gorczany III",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Plastic Salad",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Frozen Salad",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Frozen Hat",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/USWGkTQR/150/150",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150?lock=2906270126309376",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150?lock=4082532020649984",
+      "id": 6
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/tpIhUDu/150/150",
+      "id": 22
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=1500652626771968",
+      "id": 23
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/egWJi8Wr/150/150",
+      "id": 24
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=3020703397838848",
+      "id": 25
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=4309150511136768",
+      "id": 26
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/BgR8Wq1M/150/150",
+      "id": 27
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/6n129/150/150",
+      "id": 28
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/l7HIv/150/150",
+      "id": 29
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=3640353141817344",
+      "id": 30
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/gWmPzUACA/150/150",
+      "id": 31
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/014ubP/150/150",
+      "id": 32
+    }
+  ]
+}
