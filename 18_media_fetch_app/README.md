@@ -111,7 +111,7 @@ You may also see any lint errors in the console.
  
 ---
 
-***The main page - adding image - spinner.***</br>
+***The main page - adding album - spinner.***</br>
 ![Screenshot](docs/img/05_img_adding_album_spinner.png)</br>
  
 ---
