@@ -1,0 +1,36 @@
+/* Style the search bar container */
+.search-bar {
+    margin: 20px 0;
+}
+
+/* Style the label */
+label {
+    display: block; 
+    font-size: 24px;
+    font-family: 'Cursive', cursive;
+    margin-bottom: 5px;
+  }
+
+/* Style the input field */
+/* Center the input text and make it narrower */
+input {
+    width: 30%;
+    margin: 0 auto; 
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+/* Add a hover effect for the input field */
+input:hover {
+    border-color: #555;
+}
+
+/* Add a focus effect for the input field */
+input:focus {
+    outline: none; 
+    border-color: #007bff; 
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}

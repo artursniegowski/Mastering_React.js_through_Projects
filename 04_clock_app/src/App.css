@@ -1,0 +1,10 @@
+h1 {
+  font-size: 100px;
+}
+
+button {
+  background-color:var(--button-color) !important;
+  color:var(--text-color);
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
