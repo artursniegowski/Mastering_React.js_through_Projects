@@ -6,7 +6,7 @@ import { removeUser } from "../thunks/removeUser";
 const usersSlice = createSlice({
     name: 'users',
     initialState: {
-        data: [],
+        data: [], 
         // defines if the userdata is being loaded
         isLoading: false, // this is not used, we are using useState in the component, just for clarification here hwo it could look!!
         // defines if an error occuserd during loading, null===no error, else error === error object
