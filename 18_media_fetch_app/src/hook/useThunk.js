@@ -4,7 +4,7 @@ import { useDispatch } from "react-redux";
 // custom hook for using our created thunks
 function useThunk(thunk){
     const [isLoading, setIsLoading] = useState(false);
-    const [error, setError] = useState(null);
+    const [error, setError] = useState(null); 
     const dispatch = useDispatch();
 
     // we useCallbac to make sure we have a reference to a function
