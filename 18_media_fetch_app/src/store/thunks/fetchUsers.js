@@ -6,7 +6,7 @@ import axios from "axios";
 // users/fetch/fulfilled  or
 // users/fetch/rejected   or
 // later in my slice i can watch for this as an extraReducer
-const fetchUsers = createAsyncThunk('users/fetch', async () => {
+const fetchUsers = createAsyncThunk('users/fetch', async () => { 
     // here comes the request logic 
     // fetching the users and alter returing them
     const GET_URL = "http://localhost:3005/users";
