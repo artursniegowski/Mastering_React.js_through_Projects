@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 function useThunk(thunk){
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState(null); 
-    const dispatch = useDispatch();
+    const dispatch = useDispatch(); 
 
     // we useCallbac to make sure we have a reference to a function
     // and wehnw e run in the useEffect it wont end up in a infinite loop,
