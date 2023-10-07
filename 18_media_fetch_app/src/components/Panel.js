@@ -10,7 +10,7 @@ function Panel({ children, className, ...rest }) {
     <div {...rest} className={finalClassNames}>
       {children}
     </div>
-  );
+  ); 
 }
 
 export default Panel;
