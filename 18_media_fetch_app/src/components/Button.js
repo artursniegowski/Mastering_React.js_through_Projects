@@ -11,7 +11,7 @@ function Button({
   outline,
   rounded,
   loading,
-  ...rest
+  ...rest 
 }) {
   const classes = className(
     rest.className,
