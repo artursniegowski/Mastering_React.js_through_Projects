@@ -18,7 +18,7 @@ const usersSlice = createSlice({
         // this are the actions defined/created in the fetchUsers
         builder.addCase(fetchUsers.pending, (state, action) => {
             // Update our state object to show the user the data is being loaded
-            state.isLoading = true;
+            state.isLoading = true; 
         });
         builder.addCase(fetchUsers.fulfilled, (state, action) => {
             // Update our state object to show the user the data has beed loaded sucesfull
