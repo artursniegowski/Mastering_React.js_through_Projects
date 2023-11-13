@@ -115,3 +115,12 @@ Key Features: </br>
 - Data Storage: The app saves the generated data to an external API server using JSON Server, allowing future retrieval of the randomly generated records.</br>
 - Data Loading Experience: To enhance the user experience, the app employs loading spinners and clear error handling to ensure that users are aware of data fetching activities.</br>
 - Redux Toolkit and Redux Toolkit Query: The project is divided into three phases. The first phase, fetching the list of users, uses Plain Redux Toolkit for making requests. The subsequent phases, fetching albums and photos, utilize Redux Toolkit Query, an extension that simplifies advanced data fetching features.</br>
+
+## 19_tictactoe_web_app
+Build using React.js, JavaScript, CSS, HTML. This web-app is a recreation of the popular game Tic Tac Toe made with React.js. A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses. This project was used to get more familiar with React.js, following the instructions on https://reactjs.org/tutorial/tutorial.html. This project also includes the solutions to all 6 tasks given at the end of the tutorial. </br>
+
+## 20_randompokemon_app
+Created using React.js, CSS, HTML, JavaScript. This is an app that randomly selects a Pokemon by clicking on the button GENERATE. Data is fetched from the API https://pokeapi.co/ . A pokemon is randomly selected from the API and, the species name, abilities and image are displayed on the website. </br>
+
+## 21_movie_browser_app
+It is a movie browser website that's API driven. There's a dynamic search function, movie detail view, about page, all built into a single page application / progressive web application. The concept of function based components was used for the development of this web-app. You can type in the search box the movie you are interested in, and it will update automatically the results. The data is fetched from the API themoviedb. </br>

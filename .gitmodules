@@ -1,0 +1,9 @@
+[submodule "19_tictactoe_web_app"]
+	path = 19_tictactoe_web_app
+	url = https://github.com/artursniegowski/tictactoe-web-app.git
+[submodule "20_randompokemon_app"]
+	path = 20_randompokemon_app
+	url = https://github.com/artursniegowski/randompokemon-app.git
+[submodule "21_movie_browser_app"]
+	path = 21_movie_browser_app
+	url = https://github.com/artursniegowski/MovieBrowser-APP
